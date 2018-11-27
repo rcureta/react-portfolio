@@ -6,7 +6,6 @@ function Nav(props) {
   return (
     <nav role="navigation">
       <div className="nav-container">
-        <img className="logo" src={require('../assets/logo-white.png')} alt="Ryan Ureta logo." />
         <h1>Ryan Ureta</h1>
         <label htmlFor="toggle">&#9776;</label>
         <input type="checkbox" id="toggle" />
