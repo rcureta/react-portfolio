@@ -7,7 +7,7 @@ function Projects(props) {
     <article className="projects">
       <div className="row">
         <section className="col-12 box">
-          <h1 className="section-header"><i className="fas fa-code fa-fw" aria-hidden="true"></i>&nbsp;Projects</h1>
+          <h1 className="section-header">Projects</h1>
         </section>
       </div>
       <div className="row">
