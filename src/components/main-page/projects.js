@@ -46,7 +46,7 @@ function Projects(props) {
         <section className="col-6 box">
           <img className="content-pic" src={require('../assets/morse.PNG')} alt="Morse screenshot." />
           <a className="repo-link" target="_blank" rel="noopener noreferrer" href="https://morse-learning-app.herokuapp.com">Demo</a>
-          <a className="repo-link" target="_blank" rel="noopener noreferrer" href="https://github.com/thinkful-ei23/SRC-morse-client">repo</a>
+          <a className="repo-link" target="_blank" rel="noopener noreferrer" href="https://github.com/thinkful-ei23/SRC-morse-client">Repo</a>
         </section>
       </div>
     </article>
