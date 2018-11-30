@@ -38,7 +38,7 @@ function Projects(props) {
       </div>
       <div className="row">
         <section className="col-6 box">
-          <h2>Morse Learning</h2>
+          <h2>Morse App</h2>
           <p>An application implementing algorithms to assist in the asset-acquisition of knowing how to articulate in morse code.</p>
           <hr />
           <p>Tech Stack: HTML5, CSS3, JavaScript, MERN, Redux, Mongo</p>
