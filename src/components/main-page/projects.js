@@ -44,7 +44,7 @@ function Projects(props) {
           <p>Tech Stack: HTML5, CSS3, JavaScript, MERN, Redux, Mongo</p>
         </section>
         <section className="col-6 box">
-          <img className="content-pic" src={require('../assets/morse.PNG')} alt="Morse screenshot." />
+          <img className="content-pic" src={require('../assets/morse.png')} alt="Morse screenshot." />
           <a className="repo-link" target="_blank" rel="noopener noreferrer" href="https://morse-learning-app.herokuapp.com">Demo</a>
           <a className="repo-link" target="_blank" rel="noopener noreferrer" href="https://github.com/thinkful-ei23/SRC-morse-client">Repo</a>
         </section>
