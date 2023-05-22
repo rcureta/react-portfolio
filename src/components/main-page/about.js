@@ -22,7 +22,8 @@ function About(props) {
         </section>
         <section className="col-6 box">
           <ul><i className="fas fa-briefcase fa-fw" aria-hidden="true"></i>&nbsp;<span className="list-header">Work</span>
-            <li><span className="list-title">Full Stack Developer,</span>Thinkful - Academic Projects, July 2018 - present</li>
+            <li><span className="list-title">Full Stack Developer,</span>Thinkful - Academic Projects, July 2018 - Dec 2018</li>
+            <li><span className="list-title">Full Stack Developer,</span>Thinkful - Academic Projects, July 2020 - Dec 2022</li>
         </ul>
         </section>
       </div>
