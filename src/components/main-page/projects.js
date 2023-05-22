@@ -13,13 +13,12 @@ function Projects(props) {
       <div className="row">
         <section className="col-6 box">
           <h2>GoSeeThis</h2>
-          <p>Tired of the vitriol so commonplace with movie review websites?Look no further, as just a click away is a community designed around sharing profound and sentimental experiences from films that you should really go see.</p>
+          <p>Tired of the vitriol so commonplace with movie review websites? Look no further, as just a click away is a community designed around sharing profound and sentimental experiences from films that you should really go see.</p>
           <hr />
           <p>Tech Stack: HTML5, CSS3, JavaScript, MERN, Redux.</p>
         </section>
         <section className="col-6 box">
           <img id="no-shadow" className="content-pic" src={require('../assets/goseethis.png')} alt="GoSeeThis screenshot." />
-          <a className="repo-link" target="_blank" rel="noopener noreferrer" href="https://goseethis-client.herokuapp.com">Demo</a>
           <a className="repo-link" target="_blank" rel="noopener noreferrer" href="https://github.com/thinkful-ei23/goseethis-client">Repo</a>
         </section>
       </div>
@@ -32,7 +31,6 @@ function Projects(props) {
         </section>
         <section className="col-6 box">
           <img className="content-pic" src={require('../assets/rackmapper.png')} alt="Rack Mapper screenshot." />
-          <a className="repo-link" target="_blank" rel="noopener noreferrer" href="https://rackmapper.herokuapp.com">Demo</a>
           <a className="repo-link" target="_blank" rel="noopener noreferrer" href="https://github.com/rcureta/bike-rack-client">Repo</a>
         </section>
       </div>
@@ -45,7 +43,6 @@ function Projects(props) {
         </section>
         <section className="col-6 box">
           <img className="content-pic" src={require('../assets/morseimg.png')} alt="Morse screenshot." />
-          <a className="repo-link" target="_blank" rel="noopener noreferrer" href="https://morse-learning-app.herokuapp.com">Demo</a>
           <a className="repo-link" target="_blank" rel="noopener noreferrer" href="https://github.com/thinkful-ei23/SRC-morse-client">Repo</a>
         </section>
       </div>
