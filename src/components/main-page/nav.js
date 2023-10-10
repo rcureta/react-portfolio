@@ -10,7 +10,6 @@ function Nav(props) {
         <label htmlFor="toggle">&#9776;</label>
         <input type="checkbox" id="toggle" />
         <section className="menu">
-          <a target="_blank" rel="noopener noreferrer" href="https://rcureta.github.io/react-portfolio/files/ryan-ureta-resume.pdf"><i className="fas fa-file-alt fa-fw" aria-hidden="true"></i>&nbsp;Résumé</a>
           <a target="_blank" rel="noopener noreferrer" href="https://github.com/rcureta"><i className="fab fa-github fa-fw" aria-hidden="true"></i>&nbsp;GitHub</a>
           <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/ryan-ureta"><i className="fab fa-linkedin fa-fw" aria-hidden="true"></i>&nbsp;LinkedIn</a>
         </section>
