@@ -14,7 +14,6 @@ function Footer(props) {
         </section>
         <section className="col-6 box">
           <ul><span className="list-header">Misc.</span>
-            <li><a target="_blank" rel="noopener noreferrer" href="https://rcureta.github.io/react-portfolio/files/ryan-ureta-resume.pdf"><i className="fas fa-file-alt fa-fw" aria-hidden="true"></i>&nbsp;Résumé</a></li>
             <li><a target="_blank" rel="noopener noreferrer" href="https://github.com/rcureta"><i className="fab fa-github fa-fw" aria-hidden="true"></i>&nbsp;GitHub</a></li>
             <li><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/ryan-ureta"><i className="fab fa-linkedin fa-fw" aria-hidden="true"></i>&nbsp;LinkedIn</a></li>
           </ul>
